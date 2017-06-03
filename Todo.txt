@@ -1,0 +1,12 @@
+Yana:
+bold selection text
+bigger font
+bigger dots
+
+Me:
+Implement add choice
+Config data store
+Data store
+Report generation
+graphs? :)
+Resizing code
