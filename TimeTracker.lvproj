@@ -31,8 +31,8 @@
 		</Item>
 		<Item Name="DisplayWindow.lvlib" Type="Library" URL="../DisplayWindow/DisplayWindow.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="TimeTracker.lvclass" Type="LVClass" URL="../TimeTracker.lvclass"/>
 		<Item Name="Todo.txt" Type="Document" URL="../Todo.txt"/>
+		<Item Name="TimeTracker.lvlib" Type="Library" URL="../TimeTracker.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -109,7 +109,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{00A7A3DB-8442-4C92-B766-E633D75F2C1E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TimeTracker.lvclass</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/TimeTracker.lvlib/TimeTracker.lvclass</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
