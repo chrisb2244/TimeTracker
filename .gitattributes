@@ -1,0 +1,3 @@
+*.vi diff=lvcompare2017
+*.vit diff=lvcompare2017
+*.vim diff=lvcompare2017
